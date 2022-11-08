@@ -1,11 +1,11 @@
 # SEP11 Freedom Project
-by X
+by Tamim Kabir
 
 ## Context
-The "Freedom Project" for SEP11 is all about X. The purpose of this blog is to X.
+The "Freedom Project" for SEP11 is all about X. The purpose of this blog is to show and explain where I was at the time making the game.
 
 ## Content
-For my project, I am making X. This blog will walk through my process of independently studying X in order to make X.
+For my project, I am making a fast-paced platformer. This blog will walk through my process of independently studying Melon.JS in order to make the game.
 
 ## Links
 
