@@ -2,7 +2,7 @@
 by Tamim Kabir
 
 ## Context
-The "Freedom Project" for SEP11 is all about X. The purpose of this blog is to show and explain where I was at the time making the game.
+The "Freedom Project" for SEP11 is all about learning and using that and applying it to a product which in our case had to be something in Javascript which had to be interactive. The purpose of this blog is to show and explain where I was at the time making the game.
 
 ## Content
 For my project, I am making a fast-paced platformer. This blog will walk through my process of independently studying Melon.JS in order to make the game.
