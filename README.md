@@ -9,12 +9,12 @@ For my project, I am making a fast-paced platformer. This blog will walk through
 
 ## Links
 
-Product
+[Product](https://tamimk0503.github.io/sep11-freedom-project-TProduct)
 
-Presentation
+[Presentation](https://docs.google.com/presentation/d/1_224J-Z4QyLEgKxnFFywluZAhGaiFZrA/edit?usp=sharing&ouid=103409622872672510130&rtpof=true&sd=true)
 
 ## Implications
-X
+The game that I created has impacts on society with them being global, social, and economic. For global it has an impact as it serves as a time waster as it is on a device be it on a phone or computer in which the enviorment is used and stripped for its resources to make those things but from that it let us make our lives easier and allows us to do many things. For the social aspect as it has the potential to create bonds with others and a community discussing the game. Lastly for economic it has the potential to be monitize similar to mobile games but outside of the game itself as if the game has a community having something like a merch shop could bring in some money.
 
 ---
 
@@ -24,7 +24,4 @@ X
 * [Blog Entry 4](entries/entry04.md)
 * [Blog Entry 5](entries/entry05.md)
 * [Blog Entry 6](entries/entry06.md)
-* [Blog Entry 7](entries/entry07.md)
-* [Blog Entry 8](entries/entry08.md)
-* [Blog Entry 9](entries/entry09.md)
-* [Blog Entry 10](entries/entry10.md)
+
